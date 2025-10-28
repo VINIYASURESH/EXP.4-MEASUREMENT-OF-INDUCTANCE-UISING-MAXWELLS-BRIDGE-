@@ -45,4 +45,10 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
     R2 = minimum we will neglect it
 
+## OUTPUT:
+
+![492760865-7b01685f-8080-43ac-9ac0-99011d14f9a4](https://github.com/user-attachments/assets/b11fbfb9-7c6a-4aa6-b962-9fe5f36b19c2)
+
+
   ## Result: 
+  Thus the unknown Inductance using Maxwell's Bridge has been measured.
